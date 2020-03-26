@@ -1,0 +1,5 @@
+Unzip the file.
+On a Windows machine, under directory project1, open PowerShell and type: python Project1.py
+The program will run tasks one by one.
+All packages used are included in directory project1.
+When a fiugre is plotted, close it manually so the program can continue.
